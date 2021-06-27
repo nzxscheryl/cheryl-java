@@ -13,6 +13,8 @@
      9.rabbitMQ
      
 阶段二
+
+
      1.idea及相关插件使用
      2.maven
      3.spring boot微信支付高级项目实战
@@ -23,7 +25,10 @@
      8.shiro权限框架
      9.lambda函数编程 jdk8/13
      10.MybatisPlus+SwaggerUI+Lombok
+     
 阶段三
+
+
      1.设计模式
      2.docker
      3.JVM
